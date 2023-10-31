@@ -4,4 +4,5 @@
 
 ## 분류
 
-### Vue.js
+### Algorithm
+- 입출력
