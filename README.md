@@ -5,5 +5,5 @@
 ## 분류
 
 ### Algorithm
-입출력
+입출력 문제
 - [231102 / 백준 / 2588 - 곱셈](https://github.com/blaair/TIL/blob/main/Algorith/231102.md)
