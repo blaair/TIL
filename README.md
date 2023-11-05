@@ -6,7 +6,7 @@
 
 ## 분류
 ### React.js
-- [Next.js]
+- [Next.js](https://github.com/blaair/TIL/blob/main/React/nextjs.md)
 
 <br/>
 <br/>  
