@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Today I Learned](README.md)
-* [Today I Learned](<README (1).md>)
 * [Algorithm](Algorithm/README.md)
   * [231102 / 백준 / 2588 - 곱셈](Algorithm/231102-백준-2588.md)
   * [231102 / 백준 / 2884 - 알람 시계](Algorithm/231102-백준-2884.md)
