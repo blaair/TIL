@@ -7,6 +7,8 @@
 ## 분류
 ### React.js
 - [Next.js](https://github.com/blaair/TIL/blob/main/React/nextjs.md)
+- [C2C 커머스 어플리케이션 개발] (Next.js, TypeScript) 
+
 
 ### JavaScript
 - [JavaScript]()
