@@ -31,3 +31,11 @@
 #### last-child가 작동하지 않을 때
 - 원인 : 마지막 자식 아래에 또다른 요소가 존재한다면 last-child는 사용할 수 없다.
 - 해결 : nth-last-of-type(1) 
+
+#### 인라인 요소 가운데 정렬 (a 태그 등)
+- 블록 요소라면 그냥 margin: auto만 주면 되지만, 인라인 요소이기에 display: block을 준다.
+- display: block 을 주면 기본적으로 width 값이 100%로 바껴서 width 값을 정해준다.
+
+- 만약 텍스트 길이에 따라 width 값을 조정해주어야 하는 번거로움이 있다면,
+  - width: min-content;
+  - white-space: nowrap; 
